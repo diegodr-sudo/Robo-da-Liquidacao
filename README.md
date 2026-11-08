@@ -5,6 +5,8 @@
 
 ## Instalar
 
+Compatível com **Windows 10/11 de 64 bits** e **macOS 15 ou posterior**.
+
 | Seu computador | Arquivo para baixar |
 |---|---|
 | Windows 10/11 · 64 bits | Instalador com final `-setup.exe` |
